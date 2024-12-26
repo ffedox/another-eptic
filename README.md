@@ -1,5 +1,6 @@
 # another-eptic
 
+```
 another-eptic/
 ├── README.md
 ├── data/
@@ -15,4 +16,4 @@ another-eptic/
 │   └── alignment.py
 └── utils/
     └── db_connect.py
-
+```
