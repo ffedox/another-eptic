@@ -1,5 +1,7 @@
 # another-eptic
 
+## structure
+
 ```
 another-eptic/
 ├── README.md
